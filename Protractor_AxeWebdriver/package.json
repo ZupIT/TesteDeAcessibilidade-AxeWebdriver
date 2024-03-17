@@ -14,7 +14,7 @@
     "@axe-core/webdriverjs": "^4.0.0",
     "chai": "^4.2.0",
     "chai-as-promised": "^7.1.1",
-    "cucumber": "^6.0.5",
+    "cucumber": "^6.0.7",
     "multiple-cucumber-html-reporter": "^1.18.0",
     "protractor": "^7.0.0"
   },
