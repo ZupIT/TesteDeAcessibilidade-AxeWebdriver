@@ -11,7 +11,7 @@
   "author": "Flavio Antunes",
   "license": "ISC",
   "dependencies": {
-    "@axe-core/webdriverjs": "^4.0.0",
+    "@axe-core/webdriverjs": "^4.8.5",
     "chai": "^4.2.0",
     "chai-as-promised": "^7.1.1",
     "cucumber": "^6.0.5",
